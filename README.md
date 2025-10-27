@@ -2,16 +2,16 @@
 
 <details> <summary><h2> 📚 Table of Contents</h2></summary>
 
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Implementation Details](#implementation-details)
-  - [Data Normalization](#1-data-normalization)
-  - [Outlier Detection](#2-outlier-detection)
-  - [K-means Clustering](#3-k-means-clustering)
-- [Installation & Usage](#installation--usage)
-- [Learning Outcomes](#learning-outcomes)
-- [Project Informaion](#project-information)
-- [Contact](#contact)
+- [Overview](#-overview)
+- [Project Structure](#-project-structure)
+- [Implementation Details](#-implementation-details)
+  - [Data Normalization](#1--data-normalization)
+  - [Outlier Detection](#2--outlier-detection)
+  - [K-means Clustering](#3--k-means-clustering)
+- [Installation & Usage](#-installation--usage)
+- [Learning Outcomes](#-learning-outcomes)
+- [Project Informaion](#-project-information)
+- [Contact](#-contact)
 
 </details>
 
@@ -142,6 +142,7 @@ Z-score:            [-1.2359, 1.5891, 1.0745, 0.0746, -0.5023]
 <!-- --- -->
 
 <!-- <details> <summary><h2> ⚙️ Installation & Usage</h2></summary> -->
+
 
 ## ⚙️ Installation & Usage
 
