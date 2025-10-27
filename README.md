@@ -8,9 +8,9 @@
   - [Data Normalization](#1--data-normalization)
   - [Outlier Detection](#2--outlier-detection)
   - [K-means Clustering](#3--k-means-clustering)
-- [Installation & Usage](#-installation--usage)
+- [Installation & Usage](#%EF%B8%8F-installation--usage)
 - [Learning Outcomes](#-learning-outcomes)
-- [Project Informaion](#-project-information)
+- [Project Information](#-project-information)
 - [Contact](#-contact)
 
 </details>
@@ -57,7 +57,7 @@ Data-and-Information-Analysis-Course/
 ├── Project Description.pdf        # Official course project description
 └── Amirmehdi Zarrinnezhad._9731087.pdf  # Final report submission
 ```
-</details>
+<!-- </details> -->
 
 <!-- --- -->
 
