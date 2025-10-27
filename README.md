@@ -216,7 +216,8 @@ Questions and Collaborations? Please feel free to open an issue or reach out via
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div align="center">
-⭐ If you found this project helpful, please consider giving it a star! ⭐  
-*Amirmehdi Zarrinnezhad*
+⭐ If you found this project helpful, please consider giving it a star! ⭐   
+
+*Amirmehdi Zarrinnezhad* 
 </div>
 
