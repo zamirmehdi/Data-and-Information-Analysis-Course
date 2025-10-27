@@ -21,7 +21,7 @@
 
 ## 📘 Overview
 Implementation of three core data analysis techniques **from scratch** in Python (without scikit-learn):
-- **Normalization** — Three methods for scaling data
+- **Normalization** — Three methods for scaling data (Decimal Scaling, Min-Max, and Z-Score)
 - **Outlier Detection** — Statistical threshold-based identification  
 - **K-Means Clustering** — Manual implementation on Iris dataset
 
