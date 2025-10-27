@@ -174,12 +174,12 @@ jupyter notebook K-means/k_means.ipynb
 <!-- <details> <summary><h2> 🎓 Learning Outcomes</h2></summary> -->
 ## 🎓 Learning Outcomes
 
-- ✅ Statistical analysis (mean, variance, outlier detection)
-- ✅ Data preprocessing techniques (normalization, scaling)
-- ✅ Unsupervised learning (K-Means clustering)
-- ✅ Algorithm implementation from mathematical concepts
-- ✅ Data visualization with matplotlib
-- ✅ Working with real datasets (Iris, CSV handling)
+- Statistical analysis (mean, variance, outlier detection)
+- Data preprocessing techniques (normalization, scaling)
+- Unsupervised learning (K-Means clustering)
+- Algorithm implementation from mathematical concepts
+- Data visualization with matplotlib
+- Working with real datasets (Iris, CSV handling)
 
 <!-- </details> -->
 
