@@ -185,11 +185,12 @@ jupyter notebook K-means/k_means.ipynb
 
 <!-- --- -->
 
-## 📄 Project Information
+## ℹ️ Project Information
 
-- **Author**: Amirmehdi Zarrinnezhad
-- **Course**: Data and Information Analysis 
-- **University**: Amirkabir University of Technology (Tehran Polytechnic) - Fall 2022
+**Author**: Amirmehdi Zarrinnezhad    
+**Course**: Data and Information Analysis    
+**University**: Amirkabir University of Technology (Tehran Polytechnic) - Fall 2022    
+**Repository**: [zamirmehdi/Data-and-Information-Analysis-Course](https://github.com/zamirmehdi/Data-and-Information-Analysis-Course/)
 <!-- - **Semester**: Fall 2022 -->
 <!-- - **Project Link**: [https://github.com/zamirmehdi/Data-and-Information-Analysis-Course](https://github.com/zamirmehdi/Data-and-Information-Analysis-Course) -->
 
